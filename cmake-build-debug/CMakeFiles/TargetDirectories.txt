@@ -1,0 +1,3 @@
+C:/Users/cohen/Downloads/flipCardGame/flipCardGame/cmake-build-debug/CMakeFiles/flipCardGame.dir
+C:/Users/cohen/Downloads/flipCardGame/flipCardGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cohen/Downloads/flipCardGame/flipCardGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

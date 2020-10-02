@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cohen/Downloads/flipCardGame/flipCardGame/flipCard.cpp
+flipCard.h
+C:/Users/cohen/Downloads/flipCardGame/flipCardGame/flipCard.h
+
+C:/Users/cohen/Downloads/flipCardGame/flipCardGame/flipCard.h
+io.h
+-
+iostream
+-
+fcntl.h
+-
+string
+-
+list
+-
+ctime
+-
+
